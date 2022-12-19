@@ -31,6 +31,7 @@ div.container {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  width= 100%;
 }
 div#logo-head {
   margin-left: -5%;
